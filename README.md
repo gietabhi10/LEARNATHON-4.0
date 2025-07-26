@@ -38,11 +38,12 @@ To run this project, you'll need Python and several data science libraries.
 
 1.  *Clone the repository:*
     bash
-    git clone (https://github.com/gietabhi10/LEARNATHON-4.0)
+    git clone [Repository ](https://github.com/gietabhi10/LEARNATHON-4.0)
+    
     cd [LEARNATHON 4.0](https://github.com/gietabhi10/LEARNATHON-4.0/tree/main)
     
 
-2.  *Install the required libraries:*
+3.  *Install the required libraries:*
     It's recommended to use a virtual environment.
 
     Install [scikit-learn](https://scikit-learn.org/stable/install.html)   [matplotlib](https://pypi.org/project/matplotlib/)
@@ -72,9 +73,3 @@ The solution was developed following a standard machine learning pipeline:
     * F1-Score: A weighted average of Precision and Recall, providing a balanced measure of performance.
 
 6.  Hyperparameter Tuning: The best-performing model was further optimized by tuning its hyperparameters to achieve maximum performance.
-
-# Usage
-To see the model-building process, open and run the Jupyter Notebook provided in this repository.
-
-bash
-jupyter notebook [Your-Notebook-Name].ipynb
