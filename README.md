@@ -2,6 +2,11 @@
 
 This project, developed for the Learnathon 4.0, focuses on building a machine learning model to detect fraudulent claims in the auto insurance industry. By leveraging predictive modeling, the goal is to create a system for smarter, more efficient claims management.
 
+# Team Members
+1. Abhishek Kumar Sharma (22CSE1068)
+2. Satyabrata Mund       (22CSE045)
+3. Raushan Kumar Singh   (22CSE365)
+
 # 📝 Project Description
 Insurance fraud is a significant problem that leads to substantial financial losses for insurance companies and results in higher premiums for honest customers. This project aims to automate the detection of suspicious claims by training a binary classification model on historical claims data. The model learns to distinguish between fraudulent and legitimate claims based on various features, allowing investigators to focus their efforts on high-risk cases.
 
