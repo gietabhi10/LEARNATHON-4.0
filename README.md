@@ -44,8 +44,9 @@ To run this project, you'll need Python and several data science libraries.
 
 2.  *Install the required libraries:*
     It's recommended to use a virtual environment.
-    bash
-    pip install pandas scikit-learn matplotlib seaborn jupyter
+    install [scikit-learn](https://scikit-learn.org/stable/install.html)   [matplotlib](https://pypi.org/project/matplotlib/)
+            [seaborn](https://seaborn.pydata.org/installing.html)
+            [jupyter](https://pypi.org/project/jupyter/)   [pandas](https://pypi.org/project/pandas/)
     
 
 # 🚀 Model Building Workflow
