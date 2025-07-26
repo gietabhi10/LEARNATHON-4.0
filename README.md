@@ -39,12 +39,13 @@ To run this project, you'll need Python and several data science libraries.
 1.  *Clone the repository:*
     bash
     git clone (https://github.com/gietabhi10/LEARNATHON-4.0)
-    cd LEARNATHON 4.0
+    cd [LEARNATHON 4.0](https://github.com/gietabhi10/LEARNATHON-4.0/tree/main)
     
 
 2.  *Install the required libraries:*
     It's recommended to use a virtual environment.
-    install [scikit-learn](https://scikit-learn.org/stable/install.html)   [matplotlib](https://pypi.org/project/matplotlib/)
+
+    Install [scikit-learn](https://scikit-learn.org/stable/install.html)   [matplotlib](https://pypi.org/project/matplotlib/)
             [seaborn](https://seaborn.pydata.org/installing.html)
             [jupyter](https://pypi.org/project/jupyter/)   [pandas](https://pypi.org/project/pandas/)
     
