@@ -39,7 +39,7 @@ To run this project, you'll need Python and several data science libraries.
 1.  *Clone the repository:*
     bash
     git clone (https://github.com/gietabhi10/LEARNATHON-4.0)
-    cd [Your-Repository-Name]
+    cd LEARNATHON 4.0
     
 
 2.  *Install the required libraries:*
