@@ -37,10 +37,11 @@ The model relies on several categorical features to identify patterns, including
 To run this project, you'll need Python and several data science libraries.
 
 1.  *Clone the repository:*
-    bash
-    '''terminal
+
+    ```terminal
     git clone https://github.com/gietabhi10/LEARNATHON-4.0
-    '''
+    ```
+    
     cd [LEARNATHON 4.0](https://github.com/gietabhi10/LEARNATHON-4.0/tree/main)
     
 
